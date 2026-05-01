@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🏫 I’m currently a senior student in [SUSTech](https://www.sustech.edu.cn/), [RCVLab](https://rcvlab.eee.sustech.edu.cn/).
+- 🏫 I’m currently a senior student in [SUSTech](https://www.sustech.edu.cn/), [RCVLab](https://rcvlab.eee.sustech.edu.cn/) and [PKU](https://www.pku.edu.cn/), [HMILab](https://github.com/PKU-HMI-Lab).
 - ✨ Major in **Information Engineering** under [the Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/).
 - 👀 My current research interest is embodied ai.
 - 📫 Reach me: fucy2023@mail.sustech.edu.cn
