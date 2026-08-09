@@ -8,8 +8,9 @@
 - 🚀 Google Scholar: [Chuyao Fu](https://scholar.google.com/citations?user=nz-evSgAAAAJ&hl=zh-CN)
 
 ### 📅 News:
+- 🎉 [FORCE](https://arxiv.org/pdf/2606.26006), our work on efficient reinforcement fine-tuning for VLA models, is now available on arXiv.
 - 🎉 Our paper [Mask World Model](https://arxiv.org/abs/2604.19683) is accepted by ICML 2026.
-- 🎉 Our paper [ProDrive](https://arxiv.org/abs/2604.25329) is accepted by CVPR GigaBrain Challenge Workshop 2026.
+- 🎉 Our paper [ProDrive](https://arxiv.org/abs/2604.25329) and [EchoArena](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nz-evSgAAAAJ&citation_for_view=nz-evSgAAAAJ:2osOgNQ5qMEC) are accepted by CVPR GigaBrain Challenge Workshop 2026.
 
 ---
 
