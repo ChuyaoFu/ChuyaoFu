@@ -4,7 +4,7 @@
 - ✨ Major in **Information Engineering** under [the Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/).
 - 👀 My current research interest is embodied ai.
 - 📫 Reach me: fucy2023@mail.sustech.edu.cn
-- ⚡ Personal Page: [chuyaozellfu.github.io](https://chuyaozellfu.github.io/)
+- ⚡ Personal Page: [chuyaofu.github.io](https://chuyaofu.github.io/)
 - 🚀 Google Scholar: [Chuyao Fu](https://scholar.google.com/citations?user=nz-evSgAAAAJ&hl=zh-CN)
 
 ### 📅 News:
